@@ -7,8 +7,8 @@ public class Message {
 
     public static String getMessage(String lang) {
 
-        if (lang.equals("sp")) {
-            return "Hola Mundo";
+        if (lang.equals("pl")) {
+            return "Cześć świecie";
         } else if (lang.equals("fr")) {
             return "Bonjour le monde";
         } else {
