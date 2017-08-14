@@ -4,7 +4,7 @@ Modify your "Hello, World" program to prompt the user for their name, and greet 
 package exercises_1;
 import java.util.Scanner;
 
-public class inputOutput {
+public class InputOutput {
     public static void main(String[] args) {
         Scanner in;
         String name;

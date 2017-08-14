@@ -6,7 +6,7 @@ they have driven and the amount of gas they've consumed
 package exercises_1;
 import java.util.Scanner;
 
-public class numericTypes2 {
+public class NumericTypes2 {
     public static void main(String[] args) {
         Double miles, gallons;
         Scanner in;

@@ -7,7 +7,7 @@ You should prompt the user for the dimensions. (What data types should the dimen
 package exercises_1;
 import java.util.Scanner;
 
-public class numericTypes {
+public class NumericTypes {
     public static void main(String[] args) {
         Double width, height;
         Scanner in;
