@@ -1,3 +1,9 @@
+/*ArrayList and Strings:
+Write a static method to print out each word in a list
+that has exactly 5 letters.
+*/
+
+
 package exercise_2_2;
 import java.util.ArrayList;
 
