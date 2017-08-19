@@ -4,7 +4,7 @@
 * method on the list.
 */
 
-package exercise_2_1;
+package lesson2.exercise_2_1;
 import java.util.ArrayList;
 
 public class ArrayListExercise {

@@ -7,7 +7,7 @@ case-insensitive, so that searching for "alice", for example,
 prints true.
 */
 
-package exercises_1;
+package lesson1;
 import java.util.Scanner;
 
 public class Alice {

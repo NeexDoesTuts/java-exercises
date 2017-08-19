@@ -1,7 +1,7 @@
 /* Input/output:
 Modify your "Hello, World" program to prompt the user for their name, and greet them by name.
 */
-package exercises_1;
+package lesson1;
 import java.util.Scanner;
 
 public class InputOutput {

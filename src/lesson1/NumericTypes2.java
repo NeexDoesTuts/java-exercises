@@ -3,7 +3,7 @@ Write a program that asks a user for the number of miles
 they have driven and the amount of gas they've consumed
 (in gallons), and print their miles-per-gallon.
 */
-package exercises_1;
+package lesson1;
 import java.util.Scanner;
 
 public class NumericTypes2 {

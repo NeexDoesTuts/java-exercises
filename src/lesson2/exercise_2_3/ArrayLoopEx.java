@@ -5,9 +5,7 @@ the array and print out each value.
 */
 
 
-package exercise_2_3;
-
-import java.lang.reflect.Array;
+package lesson2.exercise_2_3;
 
 public class ArrayLoopEx {
     public static void main(String[] args) {

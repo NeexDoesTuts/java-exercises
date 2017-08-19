@@ -4,7 +4,7 @@ that has exactly 5 letters.
 */
 
 
-package exercise_2_2;
+package lesson2.exercise_2_2;
 import java.util.ArrayList;
 
 public class StaticFive {

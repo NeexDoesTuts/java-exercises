@@ -4,7 +4,7 @@ You should prompt the user for the dimensions. (What data types should the dimen
 */
 
 
-package exercises_1;
+package lesson1;
 import java.util.Scanner;
 
 public class NumericTypes {
